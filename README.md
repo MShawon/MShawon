@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm a third year undergraduate at Civil Engineering. I’m a Self-Taught Programmer. 
+- 🔭 I’m currently working on something cool :wink:;
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: [![MShawon's Linkedin](https://img.shields.io/badge/Monirul%20Islam-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monirulislam107/)
+
 
 <!--
 **MShawon/MShawon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![MShawon's github stats](https://github-readme-stats.vercel.app/api?username=MShawon&count_private=true&show_icons=true&theme=dark)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MShawon&show_icons=true&theme=dark" alt="abhisheknaiidu" />
