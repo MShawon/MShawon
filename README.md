@@ -3,7 +3,7 @@
 I'm a third year undergraduate at Civil Engineering. I’m a Self-Taught Programmer. 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: [![MShawon's Email](https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flast-square&logo=gmail&logoColor=white)](mailto:shawonk440@gmail.com)
+- 📫 How to reach me: [![MShawon's Email](https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:shawonk440@gmail.com)
 
 
 <!--
